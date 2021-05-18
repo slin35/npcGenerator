@@ -185,6 +185,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 930190739302760417, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5854534586808114127, guid: 756e8674000d23b45a8aafcafdecd1d4,
         type: 3}
       propertyPath: m_Name
@@ -245,6 +250,46 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5923845777319352537, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6069398437870224834, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186531332407115523, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7098313983089490597, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7702823785965781839, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: gameName
+      value: Dungeon Escape
+      objectReference: {fileID: 0}
+    - target: {fileID: 7702823785965781839, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: gameVersion
+      value: v0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7702823785965781839, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: defaultStartingZone
+      value: Demo_Scene
+      objectReference: {fileID: 0}
+    - target: {fileID: 7702823785965781839, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: useThirdPartyMovementControl
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7702823785965781839, guid: 756e8674000d23b45a8aafcafdecd1d4,
         type: 3}
       propertyPath: focusProjectorColorMap.Array.data[2].projectorMaterial
@@ -264,6 +309,11 @@ PrefabInstance:
         type: 3}
       propertyPath: primaryStats.Array.data[3].primaryToSecondaryConversion.Array.data[0].secondaryStatType
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8464987849300555692, guid: 756e8674000d23b45a8aafcafdecd1d4,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 756e8674000d23b45a8aafcafdecd1d4, type: 3}
